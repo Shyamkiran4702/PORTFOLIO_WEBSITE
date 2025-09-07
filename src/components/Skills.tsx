@@ -140,8 +140,13 @@ const Skills: React.FC = () => {
               </div>
               
               <div className="bg-white dark:bg-gray-700 p-6 rounded-lg text-center shadow-sm transition-transform hover:scale-105 hover:shadow-md">
-                <img src="" alt="Power BI" className="w-12 h-12 mx-auto mb-3" />
+                <img src="https://www.svgrepo.com/show/354200/powerbi.svg" alt="Power BI" className="w-12 h-12 mx-auto mb-3" />
                 <p className="text-gray-800 dark:text-gray-200">Power BI</p>
+              </div>
+              
+              <div className="bg-white dark:bg-gray-700 p-6 rounded-lg text-center shadow-sm transition-transform hover:scale-105 hover:shadow-md">
+                <img src="https://www.svgrepo.com/show/373589/excel.svg" alt="Excel" className="w-12 h-12 mx-auto mb-3" />
+                <p className="text-gray-800 dark:text-gray-200">Excel</p>
               </div>
             </div>
           </div>
