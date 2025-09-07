@@ -14,8 +14,8 @@ const Skills: React.FC = () => {
     { name: "Database Design", level: 85, color: "bg-teal-500 dark:bg-teal-400" },
     { name: "Python", level: 80, color: "bg-yellow-500 dark:bg-yellow-400" },
     { name: "Power BI", level: 70, color: "bg-red-500 dark:bg-red-400" },
-    { name: "Git", level: 75, color: "bg-orange-500 dark:bg-orange-400" },
     { name: "Excel", level: 90, color: "bg-green-500 dark:bg-green-400" },
+    { name: "Git", level: 75, color: "bg-orange-500 dark:bg-orange-400" },
     { name: "Problem Solving", level: 85, color: "bg-purple-500 dark:bg-purple-400" },
   ];
   
@@ -140,8 +140,8 @@ const Skills: React.FC = () => {
               </div>
               
               <div className="bg-white dark:bg-gray-700 p-6 rounded-lg text-center shadow-sm transition-transform hover:scale-105 hover:shadow-md">
-                <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Docker" className="w-12 h-12 mx-auto mb-3" />
-                <p className="text-gray-800 dark:text-gray-200">Java</p>
+                <img src="" alt="Power BI" className="w-12 h-12 mx-auto mb-3" />
+                <p className="text-gray-800 dark:text-gray-200">Power BI</p>
               </div>
             </div>
           </div>
