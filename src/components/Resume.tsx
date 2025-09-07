@@ -47,6 +47,7 @@ const Resume: React.FC = () => {
                 <p className="text-gray-600 dark:text-gray-400 italic mb-3">MResult Technologies Pvt Ltd. | Hyderabad, Hyd</p>
                 <ul className="list-disc list-inside text-gray-600 dark:text-gray-300 space-y-2">
                   <li>I contributed to the building of a data mart at ICICI, which improved access to data for reporting reasons.</li>
+                  <li>I myself resposible for the data submitted to RBI for different requirements and regulatory submissions across ICICI BANK .</li>
                   <li>Using improved SQL, we streamlined a vital batch processing system, cutting processing time by 50%.</li>
                   <li>Interacted with senior developers and also Part of the code reviews</li>
                   <li>Optimized code performance, reducing load time by 35%</li>
