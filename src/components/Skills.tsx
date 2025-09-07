@@ -13,8 +13,9 @@ const Skills: React.FC = () => {
     { name: "SQL", level: 90, color: "bg-blue-600 dark:bg-blue-500" },
     { name: "Database Design", level: 85, color: "bg-teal-500 dark:bg-teal-400" },
     { name: "Python", level: 80, color: "bg-yellow-500 dark:bg-yellow-400" },
-    { name: "Power BI", level: 80, color: "bg-red-500 dark:bg-red-400" },
+    { name: "Power BI", level: 70, color: "bg-red-500 dark:bg-red-400" },
     { name: "Git", level: 75, color: "bg-orange-500 dark:bg-orange-400" },
+    { name: "Excel", level: 75, color: "bg-green-500 dark:bg-green-400" },
     { name: "Problem Solving", level: 85, color: "bg-purple-500 dark:bg-purple-400" },
   ];
   
